@@ -4,7 +4,7 @@ A responsive manufacturing execution system (MES) command dashboard for producti
 
 ## Live demo
 
-Open the deployed app here: https://dashboard-vue-ecru.vercel.app/dashboard
+Open the deployed app here: https://dashboard-vue-vg2b.vercel.app/dashboard
 
 ## Features
 
@@ -25,7 +25,7 @@ Open the deployed app here: https://dashboard-vue-ecru.vercel.app/dashboard
 - Tailwind CSS v4 with the Vite plugin
 - Vite, Vitest, and Playwright
 
-The shared store uses a composable rather than Pinia. Pinia is present as a dependency in the starter project but is not used for the current state architecture.
+The shared state is managed by a typed composable rather than a separate state-management library.
 
 ## Requirements
 
