@@ -2,6 +2,10 @@
 
 A responsive manufacturing execution system (MES) command dashboard for production, warehouse inventory, and quality-control workflows. Built with Vue 3, TypeScript, Vue Router, and Tailwind CSS v4.
 
+## Live demo
+
+Open the deployed app here: https://dashboard-vue-ecru.vercel.app/dashboard
+
 ## Features
 
 - **Production dashboard** — production-line status, output progress, estimated factory OEE, and defect totals.
