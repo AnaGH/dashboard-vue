@@ -81,6 +81,8 @@ src/
 | `npm run type-check` | Run Vue-aware TypeScript checks |
 | `npm run build` | Type-check and create a production build in `dist/` |
 | `npm run preview` | Preview the production build locally |
+| `npm test` | Run Vitest in watch mode |
+| `npm run coverage` | Run unit tests and generate text and HTML coverage reports |
 | `npm run test:unit` | Run Vitest unit tests |
 | `npm run test:e2e` | Run Playwright end-to-end tests |
 | `npm run lint` | Run Oxlint and ESLint |
